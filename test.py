@@ -16,7 +16,7 @@ from torch.autograd import Variable
 from demo import load_model, get_prediction
 from PIL import Image
 import cv2
-from skimage import io
+#from skimage import io
 import numpy as np
 import craft_utils
 import imgproc
