@@ -1,5 +1,5 @@
 # Public_OCR
-**AN online OCR tool with best accuracy. I have created this pipeline using Text Detection  [repo](https://github.com/clovaai/CRAFT-pytorch) and Text Recognition [repo](https://github.com/ayumiymk/aster.pytorch).
+AN online OCR tool with best accuracy. I have created this pipeline using Text Detection  [repo](https://github.com/clovaai/CRAFT-pytorch) and Text Recognition [repo](https://github.com/ayumiymk/aster.pytorch).
 
 ## USAGE :
 It is very easy to use this code follow below steps:
