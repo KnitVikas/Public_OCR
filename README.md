@@ -10,5 +10,9 @@ It is very easy to use this code follow below steps:
  
 For further info please explore test.py file. Feel free to raise issue.
 
-##Results : 
+## Results : 
+
+
+
 ![Image1](https://github.com/KnitVikas/Public_OCR/blob/main/result/res_82562350.jpg)
+
