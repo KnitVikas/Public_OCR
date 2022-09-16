@@ -9,3 +9,6 @@ It is very easy to use this code follow below steps:
 3. Response will be the output text along with the cordinates of respective text box and the Image with drawn box and prediction on each box.
  
 For further info please explore test.py file. Feel free to raise issue.
+
+##Results : 
+![Image1](https://github.com/KnitVikas/Public_OCR/blob/main/result/res_82562350.jpg)
