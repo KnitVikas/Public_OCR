@@ -16,3 +16,5 @@ For further info please explore test.py file. Feel free to raise issue.
 
 ![Image1](https://github.com/KnitVikas/Public_OCR/blob/main/result/res_82562350.jpg)
 
+NOTE :  please make sure to rotate the image horizontally before feeding to text recognition model.
+
